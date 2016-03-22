@@ -1,0 +1,17 @@
+﻿  Menu.cpp
+p:\importantstuff\computer & science\faculty\faculty 1st year\faculty\ip\projects\officialmanagementip\officialmanagementip\mainheader.h(293): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+p:\importantstuff\computer & science\faculty\faculty 1st year\faculty\ip\projects\officialmanagementip\officialmanagementip\mainheader.h(304): warning C4018: '<': signed/unsigned mismatch
+p:\importantstuff\computer & science\faculty\faculty 1st year\faculty\ip\projects\officialmanagementip\officialmanagementip\mainheader.h(311): warning C4018: '<': signed/unsigned mismatch
+p:\importantstuff\computer & science\faculty\faculty 1st year\faculty\ip\projects\officialmanagementip\officialmanagementip\mainheader.h(318): warning C4018: '<': signed/unsigned mismatch
+p:\importantstuff\computer & science\faculty\faculty 1st year\faculty\ip\projects\officialmanagementip\officialmanagementip\mainheader.h(326): warning C4018: '<': signed/unsigned mismatch
+p:\importantstuff\computer & science\faculty\faculty 1st year\faculty\ip\projects\officialmanagementip\officialmanagementip\menu.cpp(514): warning C4018: '<': signed/unsigned mismatch
+p:\importantstuff\computer & science\faculty\faculty 1st year\faculty\ip\projects\officialmanagementip\officialmanagementip\menu.cpp(535): warning C4018: '<': signed/unsigned mismatch
+p:\importantstuff\computer & science\faculty\faculty 1st year\faculty\ip\projects\officialmanagementip\officialmanagementip\menu.cpp(556): warning C4018: '<': signed/unsigned mismatch
+p:\importantstuff\computer & science\faculty\faculty 1st year\faculty\ip\projects\officialmanagementip\officialmanagementip\menu.cpp(480): warning C4715: 'MenuProc': not all control paths return a value
+p:\importantstuff\computer & science\faculty\faculty 1st year\faculty\ip\projects\officialmanagementip\officialmanagementip\menu.cpp(1092): warning C4715: 'SrchBoxProc': not all control paths return a value
+p:\importantstuff\computer & science\faculty\faculty 1st year\faculty\ip\projects\officialmanagementip\officialmanagementip\menu.cpp(868): warning C4715: 'GroupsProc': not all control paths return a value
+p:\importantstuff\computer & science\faculty\faculty 1st year\faculty\ip\projects\officialmanagementip\officialmanagementip\menu.cpp(1083): warning C4715: 'AddProc': not all control paths return a value
+p:\importantstuff\computer & science\faculty\faculty 1st year\faculty\ip\projects\officialmanagementip\officialmanagementip\menu.cpp(2151): warning C4715: 'EditProc': not all control paths return a value
+p:\importantstuff\computer & science\faculty\faculty 1st year\faculty\ip\projects\officialmanagementip\officialmanagementip\menu.cpp(1527): warning C4715: 'SrchProc': not all control paths return a value
+  LINK : P:\ImportantStuff\Computer & Science\Faculty\Faculty 1st year\Faculty\IP\projects\OfficialManagementIP\Debug\OfficialManagementIP.exe not found or not built by the last incremental link; performing full link
+  OfficialManagementIP.vcxproj -> P:\ImportantStuff\Computer & Science\Faculty\Faculty 1st year\Faculty\IP\projects\OfficialManagementIP\Debug\OfficialManagementIP.exe
